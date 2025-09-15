@@ -1,0 +1,4 @@
+Name: Kanika
+Age: 20
+City: Haridwar
+Hobby: Dancing
